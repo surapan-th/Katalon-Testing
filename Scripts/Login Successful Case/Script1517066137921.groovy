@@ -26,7 +26,7 @@ WebUI.navigateToUrl('https://www.facebook.com/')
 
 WebUI.setText(findTestObject('Page_Facebook -/input_email'), 'slowwyCH@gmail.com')
 
-WebUI.setText(findTestObject('Page_Facebook -/input_pass'), '099987752')
+WebUI.setText(findTestObject('Page_Facebook -/input_pass'), 'xxxxxxx')
 
 WebUI.click(findTestObject('Page_Facebook -/label_loginbutton'))
 
