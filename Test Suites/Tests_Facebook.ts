@@ -4,7 +4,7 @@
    <name>Tests_Facebook</name>
    <tag></tag>
    <isRerun>false</isRerun>
-   <lastRun>2018-01-27T22:44:39</lastRun>
+   <lastRun>2018-01-28T13:37:04</lastRun>
    <mailRecipient></mailRecipient>
    <numberOfRerun>0</numberOfRerun>
    <pageLoadTimeout>30</pageLoadTimeout>

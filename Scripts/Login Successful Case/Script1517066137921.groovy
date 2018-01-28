@@ -30,7 +30,7 @@ WebUI.setText(findTestObject('Page_Facebook -/input_pass'), '099987752')
 
 WebUI.click(findTestObject('Page_Facebook -/label_loginbutton'))
 
-WebUI.verifyTextPresent('Nymproriz Oz', false)
+WebUI.verifyTextPresent('eee', false)
 
 WebUI.closeBrowser()
 
